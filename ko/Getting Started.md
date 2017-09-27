@@ -90,7 +90,7 @@ TOASTCloud G 보안부서에서 요청 내용을 확인하여 계정 생성 및 
 - SSL_VPN Client를 실행 하고 설정 한 아이디/비밀번호를 입력 하여 1차 인증 후 2차 인증 OTP 키 입력창이 생성되면 “Step4”에서 입력한 16자리를 키값을 입력합니다.
     - 키값은 최초 한번만 입력하면 됩니다
 - OTP 키값이 입력되면 인증번호 입력창이 생성 됩니다
-  인증번호는 ③에(Google OTP App) 생성된 6자리를 입력하면 로그인이 됩니다
+- 인증번호는 그림 내 ③에(Google OTP App) 생성된 6자리를 입력하면 로그인이 됩니다
 
 ### 접속 완료
 <center>![alt](http://static.toastoven.net/prod_gov_security/img_12.png)</center>
