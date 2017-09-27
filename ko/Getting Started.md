@@ -48,7 +48,7 @@ TOASTCloud G 보안부서에서 요청 내용을 확인하여 계정 생성 및 
 외부 접속용 PC에 설치 되어진 Agent 실행하여 등록되어진 VPN ID를 이용하여 접속합니다.
 
 ## TOAST Cloud G SSL VPN 사용 방법 및 이용자 VM 접속 방법
-1. TOAST Cloud G SSL VPN Download Page 로그인
+### TOAST Cloud G SSL VPN Download Page 로그인
 <center>![alt](http://static.toastoven.net/prod_gov_security/img_07.png)</center>
 
 - URL창에 https://211.180.235.197:9001 을 입력합니다
@@ -56,14 +56,14 @@ TOASTCloud G 보안부서에서 요청 내용을 확인하여 계정 생성 및 
 - 발급 받으신 임시 초기 비밀번호를 입력합니다
 - [로그인]을 클릭 합니다
 
-2. TOAST Cloud G SSL VPN Agent Download
+### TOAST Cloud G SSL VPN Agent Download
 <center>![alt](http://static.toastoven.net/prod_gov_security/img_08.png)</center>
 
 - [다운로드] 클릭 합니다
 - [저장] 클릭 합니다 
 - [저장] 클릭 한 후 계속 Download를 진행 및 Download 되어진 파일을 실행하여 설치합니다
 
-3. TOAST Cloud G SSL VPN Agent 실행
+### TOAST Cloud G SSL VPN Agent 실행
 <center>![alt](http://static.toastoven.net/prod_gov_security/img_09.png)</center>
 
 - 다운로드 진행 후 바탕화면에 Client 아이콘이 생성 됩니다
@@ -71,7 +71,7 @@ TOASTCloud G 보안부서에서 요청 내용을 확인하여 계정 생성 및 
 - 발급 받으신 임시 초기 비밀번호를 입력합니다
 - [로그인] 클릭 합니다 
 
-4. TOAST Cloud G SSL VPN Google OTP 2차 인증 수단 등록 설정
+### TOAST Cloud G SSL VPN Google OTP 2차 인증 수단 등록 설정
 <center>![alt](http://static.toastoven.net/prod_gov_security/img_10.png)</center>
 
 - 핸드폰 기기등에서 Google OTP 어플을 실행시켜 줍니다 
@@ -84,7 +84,7 @@ TOASTCloud G 보안부서에서 요청 내용을 확인하여 계정 생성 및 
         - 아이폰 0,1,8,9를 제외한 모든 숫자, 알파벳을 지원
     - 이 값은 SSL VPN Client에도 동일하게 넣어줘야 하는 부분으로 설정 값으로 기억 하셔야 합니다. 
 
-5. TOAST Cloud G SSL VPN Client OTP 2차 인증 등록 설정
+### TOAST Cloud G SSL VPN Client OTP 2차 인증 등록 설정
 <center>![alt](http://static.toastoven.net/prod_gov_security/img_11.png)</center>
 
 - SSL_VPN Client를 실행 하고 설정 한 아이디/비밀번호를 입력 하여 1차 인증 후 2차 인증 OTP 키 입력창이 생성되면 “Step4”에서 입력한 16자리를 키값을 입력합니다.
@@ -92,12 +92,12 @@ TOASTCloud G 보안부서에서 요청 내용을 확인하여 계정 생성 및 
 - OTP 키값이 입력되면 인증번호 입력창이 생성 됩니다
   인증번호는 ③에(Google OTP App) 생성된 6자리를 입력하면 로그인이 됩니다
 
-6. 접속 완료
+### 접속 완료
 <center>![alt](http://static.toastoven.net/prod_gov_security/img_12.png)</center>
 
 - ID/PASSWORD 및 2차 인증 성공하면 위와 같이 연결창이 나오며, 접속이 완료 됩니다.
 
-7. 이용자 VM 접속
+### 이용자 VM 접속
 원격 터미널 접속 Tool[Putty, SecureCRT등]을 이용하여 이용자 VM SSH 연결 진행 (접속 시 VPN Private Floating IP로 접속)
 <center>![alt](http://static.toastoven.net/prod_gov_security/img_13.png)</center>
 
