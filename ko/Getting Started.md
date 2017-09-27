@@ -12,7 +12,7 @@ TOAST Cloud G의 네트워크는 아래와 같이 2개의 네트워크로 분류
 - Public Network: 이용자가 외부에 서비스를 제공하기 위한 네트워크로 VM에 공인 Floating IP를 부여한 네트워크
 - Private Network: 이용자가 CLOUD내에 생성한 시스템을 운영/관리하기 위한 네트워크로 VM에 사설 VPN Network IP를 부여한 네트워크
 
-SSL VPN 서비스를 통해 TOAST Cloud G에 구성되어진 고객 서비스 Private Network으로 언제 어디서든 운영 및 관리를 위해 안전한 접근을 할 수 있습니다 
+SSL VPN 서비스를 통해 TOAST Cloud G에 구성되어진 고객 서비스 Private Network으로 언제 어디서든 운영 및 관리를 위해 안전한 접근을 할 수 있습니다 <br><br><br>
 
 ## TOAST Cloud G SSL VPN 계정 및 접근 시스템 등록 절차
 
