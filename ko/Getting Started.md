@@ -16,7 +16,7 @@
 [![](http://static.toastoven.net/prod_gov_security/img_04.png)](http://static.toastoven.net/prod_gov_security/TOASTCloud G 방화벽 및 SSL VPN 정책 신청서.xlsx)</center>
 
 ### SSL VPN 신청서 접수 (E-Mail)
-- 대표 메일 support@gov-cloud.toast.com로 접수 신청 메일 발송. (접수일 기준으로 3일 이내 처리 및 회신)
+- 대표 메일 support@gov.toast.com로 접수 신청 메일 발송. (접수일 기준으로 3일 이내 처리 및 회신)
 
 ### 신청서 검토 (접수 및 등록)
 - 작성 내역의 접수, 검토 및 처리 부서 이관 등록
