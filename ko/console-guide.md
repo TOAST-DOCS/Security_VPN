@@ -29,9 +29,9 @@
 
 Step1. TOAST G SSL VPN Download Page 로그인
 
-![로그인](http://static.toastoven.net/prod_gov_security/ssl-vpn-3.png)
+![로그인](http://static.toastoven.net/prod_gov_security/ssl-vpn-3-1.png)
 
-1.  URL창에 [https://211.180.235.197:9001*](https://211.180.235.197:9001/) 을 입력합니다
+1.  URL창에 [https://gov-sslvpn.toast.com:9001*](https://gov-sslvpn.toast.com:9001/) 을 입력합니다
 
 2.  발급 받으신 ID를 입력 합니다
 
@@ -41,7 +41,7 @@ Step1. TOAST G SSL VPN Download Page 로그인
 
 Step2. TOAST G SSL VPN Agent Download
 
-![Agent 다운로드](http://static.toastoven.net/prod_gov_security/ssl-vpn-4.png)
+![Agent 다운로드](http://static.toastoven.net/prod_gov_security/ssl-vpn-4-1.png)
 
 1.  **\[다운로드\]** 클릭 합니다
 
