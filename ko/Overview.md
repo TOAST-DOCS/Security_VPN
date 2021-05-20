@@ -8,7 +8,7 @@ TOAST G SSL VPN서비스는 고객의 네트워크(원격지)에서 클라우드
 
 TOAST G SSL VPN 구조는 아래와 같습니다.
 
-![VPN 개요](http://static.toastoven.net/prod_gov_security/ssl-vpn-1.png)
+![VPN 개요](https://static.toastoven.net/prod_gov_security/ssl-vpn-1.png)
 
 ### 네트워크 분류
 
