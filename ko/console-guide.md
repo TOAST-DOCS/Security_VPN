@@ -31,7 +31,7 @@ Step1. NHN Cloud (공공기관용) SSL VPN Download Page 로그인
 
 ![로그인](https://static.toastoven.net/prod_gov_security/ssl-vpn-3-1.png)
 
-1.  URL창에 [https://gov-sslvpn.toast.com:9001*](https://gov-sslvpn.toast.com:9001/) 을 입력합니다
+1.  URL창에 [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001/) 을 입력합니다
 
 2.  발급 받으신 ID를 입력 합니다
 
