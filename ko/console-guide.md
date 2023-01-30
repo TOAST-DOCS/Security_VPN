@@ -124,3 +124,7 @@ A. NHN Cloud (공공기관용) SSL VPN을 실행하여 암호화 되어진 가�
 - NHN Cloud (공공기관용) SSL VPN Client 실행 및 로그인
 - 데이터 Upload Tool[WinScp등]을 이용하여 이용자 VM 접속
 - 이관이 필요한 데이터 전송
+
+### 참고
+
+- SSL VPN 계정 생성 이후 30일 이내 접속 이력이 없으면 유휴 계정으로 전환되며, 90일 미접속 시 계정이 삭제됩니다.
