@@ -13,15 +13,15 @@
 2.  계정 및 ACL 신청서 작성 : SSL VPN을 이용하여 접근 할 운영/관리 담당자 계정 신청 및 접속 시스템 ACL 등록 신청서 작성
     (아래의 Link를 통해 신청서 Download 및 신청서 작성)
     [![](https://static.toastoven.net/prod_gov_security/fileicon_download_excel.png)](https://static.toastoven.net/prod_gov_security/NHN%20Cloud%20%EB%B0%A9%ED%99%94%EB%B2%BD%20%EB%B0%8F%20SSL%20VPN%20%EC%A0%95%EC%B1%85%20%EC%8B%A0%EC%B2%AD%EC%84%9C.xlsx)
-3.  SSL VPN 신청서 접수(E-Mail) : NHN Cloud (공공기관용) 대표 메일 support@gov.toast.com로 접수 신청 메일 발송. (접수일 기준으로 3일 이내 처리 및 회신)
+3.  SSL VPN 신청서 접수(E-Mail) : NHN Cloud (공공기관용) 대표 메일 support@gov.toast.com로 접수 신청 메일 발송 (접수일 기준으로 3일 이내 처리 및 회신)
 
 4.  신청서 검토 (접수 및 등록) : NHN Cloud (공공기관용) 사업부서에서 작성 내역의 검토 및 처리부서로 이관 등록
 
-5.  SSL VPN 계정 발급 : NHN Cloud (공공기관용) 보안부서에서 요청 내용을 확인하여 계정 생성 및 접근 권한 설정 적용.
+5.  SSL VPN 계정 발급 : NHN Cloud (공공기관용) 보안부서에서 요청 내용을 확인하여 계정 생성 및 접근 권한 설정 적용
 
 6.  고객사 회신 : 고객에게 완료 처리 내용 통지
 
-7.  SSL VPN Agent 설치 : 처리 완료 메일 수신 후 NHN Cloud (공공기관용) SSL VPN 사용 방법 가이드에 따라 SSL VPN Agent 설치 진행.
+7.  SSL VPN Agent 설치 : 처리 완료 메일 수신 후 NHN Cloud (공공기관용) SSL VPN 사용 방법 가이드에 따라 SSL VPN Agent 설치 진행
 
 8.  접속 : 외부 접속용 PC에 설치 되어진 Agent 실행하여 등록되어진 VPN ID를 이용하여 접속합니다.
 
@@ -35,33 +35,41 @@ Step1. NHN Cloud (공공기관용) SSL VPN Download Page 로그인
     * KR1(판교) 리전 : [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001/)
     * KR2(평촌) 리전 : [https://kr2-sslvpn.gov-nhncloud.com:9001](https://kr2-sslvpn.gov-nhncloud.com:9001/)
 
-2.  발급 받으신 ID를 입력 합니다
+2.  발급 받으신 ID를 입력 합니다.
 
-3.  발급 받으신 임시 초기 비밀번호를 입력합니다
+3.  발급 받으신 임시 초기 비밀번호를 입력합니다.
 
-4.  **\[로그인\]**을 클릭 합니다
+4.  **\[로그인\]**을 클릭 합니다.
 
 Step2. NHN Cloud (공공기관용) SSL VPN Agent Download
 
 ![Agent 다운로드](https://static.toastoven.net/prod_gov_security/ssl-vpn-4-1.png)
 
-1.  **\[다운로드\]** 클릭 합니다
+1.  **\[다운로드\]** 클릭 합니다.
 
-2.  **\[저장\]** 클릭 합니다
+2.  **\[저장\]** 클릭 합니다.
 
-3.  **\[저장\]** 클릭 한 후 계속 Download를 진행 및 Download 되어진 파일을 실행하여 설치합니다
+3.  **\[저장\]** 클릭 한 후 계속 Download를 진행 및 Download 되어진 파일을 실행하여 설치합니다.
 
 Step3. NHN Cloud (공공기관용) SSL VPN Agent 실행
 
 ![Agent 실행](https://static.toastoven.net/prod_gov_security/ssl-vpn-5.png)
 
-1.  다운로드 진행 후 바탕화면에 Client 아이콘이 생성 됩니다
+1.  다운로드 진행 후 바탕화면에 Client 아이콘이 생성 됩니다.
 
-2.  설정하신 ID를 입력합니다
+2.  설정하신 ID를 입력합니다.
 
-3.  발급 받으신 임시 초기 비밀번호를 입력합니다
+3.  발급 받으신 임시 초기 비밀번호를 입력합니다.
 
-4.  **\[로그인\]** 클릭 합니다
+4.  **\[로그인\]** 클릭 합니다.
+
+※ 참고. NHN Cloud (공공기관용) KR1(판교)/KR2(평촌) 리전 접속변경 방법
+![Agent 접속변경](https://static.toastoven.net/prod_gov_security/ssl-vpn-5(230613).png)
+  1. SSLVPN Agent 실행 후 하단 ‘자동 접속 정보 설정’ 메뉴를 선택합니다.
+    * KR1(판교) 리전 : https://gov-sslvpn.nhncloud.com:9001
+    * KR2(평촌) 리전 : https://kr2-sslvpn.gov-nhncloud.com:9001
+  2. 자동 접속 정보 설정 팝업창에서, 접속할 리전의 Use 항목을 선택합니다.
+  3. 서버 설정 사용 확인 창에서 ‘예(Y)’를 선택합니다.
 
 Step4. NHN Cloud (공공기관용) SSL VPN Google OTP 2차 인증 수단 등록 설정
 
@@ -83,7 +91,7 @@ Step5. NHN Cloud (공공기관용) SSL VPN Client OTP 2차 인증 등록 설정
 ![OTP 2차 인증 등록 설정](https://static.toastoven.net/prod_gov_security/ssl-vpn-7.png)
 
 1.  SSL\_VPN Client를 실행 하고 설정 한 아이디/비밀번호를 입력 하여 1차 인증 후 2차 인증 OTP 키 입력창이 생성되면 “Step4”에서 입력한 16자리를 키값을 입력합니다.
-    ※ 키값은 최초 한번만 입력하면 됩니다
+    ※ 키값은 최초 한번만 입력하면 됩니다.
 
 2.  OTP 키값이 입력되면 인증번호 입력창이 생성 됩니다
     인증번호는 ③에(Google OTP App) 생성된 6자리를 입력하면 로그인이 됩니다
