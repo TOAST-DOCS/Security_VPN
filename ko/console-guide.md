@@ -6,7 +6,7 @@
 
 ![등록 절차](https://static.toastoven.net/prod_gov_security/ssl-vpn-2.png)
 
-\<SSL VPN 계정 발급 및 ACL 신청 프로세스\>
+<SSL VPN 계정 발급 및 ACL 신청 프로세스\>
 
    1. Instance VM VPN IP 확인 : SSL VPN을 이용하여 접근 할 고객 VM의 VPN Floating IP 확인
    2. 계정 및 ACL 신청서 작성 : SSL VPN을 이용하여 접근 할 운영/관리 담당자 계정 신청 및 접속 시스템 ACL 등록 신청서 작성
