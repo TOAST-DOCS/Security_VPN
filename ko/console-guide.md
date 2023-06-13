@@ -63,7 +63,7 @@ Step3. NHN Cloud (공공기관용) SSL VPN Agent 실행
 
 4.  **\[로그인\]** 클릭 합니다.
 
-※ 참고. NHN Cloud (공공기관용) KR1(판교)/KR2(평촌) 리전 접속변경 방법
+※ NHN Cloud (공공기관용) KR1(판교)/KR2(평촌) 리전 접속변경 방법
 
 ![Agent 접속변경](https://static.toastoven.net/prod_gov_security/ssl-vpn-5(230613).png)
 
@@ -149,7 +149,7 @@ A. NHN Cloud SSL VPN Client 프로그램은 KR1(판교)리전 / KR2(평촌)리�
 
 ![데이터 이관](https://static.toastoven.net/prod_gov_security/ssl-vpn-12(230613).png)
 
-※ 참고. 접속 서버 추가 설정 내용
+※ 접속 서버 추가 설정 내용
 * KR1(판교) 리전, 접속 URL : gov-sslvpn.nhncloud.com / Port : 9001 / SSL : 사용 check
 * KR2(평촌) 리전, 접속 URL : kr2-sslvpn.gov-nhncloud.com / Port : 9001 / SSL : 사용 check
     
