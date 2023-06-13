@@ -84,7 +84,9 @@ Step5. NHN Cloud(공공기관용) SSL VPN Client OTP 2차 인증 등록 설정
 ![OTP 2차 인증 등록 설정](https://static.toastoven.net/prod_gov_security/ssl-vpn-7(230613).png)
 
    1. SSL\_VPN Client를 실행 하고 설정 한 아이디/비밀번호를 입력 하여 1차 인증 후 2차 인증 OTP 키 입력창이 생성되면 “Step4”에서 입력한 16자리를 키값을 입력합니다.
+
       ※ 키값은 최초 한번만 입력하면 됩니다.
+
    2. OTP 키값이 입력되면 인증번호 입력창이 생성 됩니다.
       인증번호는 ③에(Google OTP App) 생성된 6자리를 입력하면 로그인이 됩니다.
 
