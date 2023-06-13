@@ -53,7 +53,7 @@ Step2. NHN Cloud (공공기관용) SSL VPN Agent Download
 
 Step3. NHN Cloud (공공기관용) SSL VPN Agent 실행
 
-![Agent 실행](https://static.toastoven.net/prod_gov_security/ssl-vpn-5.png)
+![Agent 실행](https://static.toastoven.net/prod_gov_security/ssl-vpn-5(230613).png)
 
 1.  다운로드 진행 후 바탕화면에 Client 아이콘이 생성 됩니다
 
