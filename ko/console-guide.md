@@ -8,11 +8,12 @@
 
 <SSL VPN 계정 발급 및 ACL 신청 프로세스>
 
-1.  Instance VM VPN IP 확인 : SSL VPN을 이용하여 접근 할 고객 VM의 VPN Floating IP 확인
+1. Instance VM VPN IP 확인 : SSL VPN을 이용하여 접근 할 고객 VM의 VPN Floating IP 확인
 
-2.  계정 및 ACL 신청서 작성 : SSL VPN을 이용하여 접근 할 운영/관리 담당자 계정 신청 및 접속 시스템 ACL 등록 신청서 작성
-    (아래의 Link를 통해 신청서 Download 및 신청서 작성)
-    [![](https://static.toastoven.net/prod_gov_security/fileicon_download_excel.png)](https://static.toastoven.net/prod_gov_security/NHN%20Cloud%20%EB%B0%A9%ED%99%94%EB%B2%BD%20%EB%B0%8F%20SSL%20VPN%20%EC%A0%95%EC%B1%85%20%EC%8B%A0%EC%B2%AD%EC%84%9C.xlsx)
+2. 계정 및 ACL 신청서 작성 : SSL VPN을 이용하여 접근 할 운영/관리 담당자 계정 신청 및 접속 시스템 ACL 등록 신청서 작성
+   (아래의 Link를 통해 신청서 Download 및 신청서 작성)
+   [![](https://static.toastoven.net/prod_gov_security/fileicon_download_excel.png)](https://static.toastoven.net/prod_gov_security/NHN%20Cloud%20%EB%B0%A9%ED%99%94%EB%B2%BD%20%EB%B0%8F%20SSL%20VPN%20%EC%A0%95%EC%B1%85%20%EC%8B%A0%EC%B2%AD%EC%84%9C.xlsx)
+
 3.  SSL VPN 신청서 접수(E-Mail) : NHN Cloud (공공기관용) 대표 메일 support@gov.toast.com로 접수 신청 메일 발송 (접수일 기준으로 3일 이내 처리 및 회신)
 
 4.  신청서 검토 (접수 및 등록) : NHN Cloud (공공기관용) 사업부서에서 작성 내역의 검토 및 처리부서로 이관 등록
