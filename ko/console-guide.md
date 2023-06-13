@@ -70,7 +70,7 @@ Step4. NHN Cloud(공공기관용) SSL VPN Google OTP 2차 인증 수단 등록 �
 ![OTP 2차 인증](https://static.toastoven.net/prod_gov_security/ssl-vpn-6.png)
 
    1. 핸드폰 기기 등에서 Google OTP 앱을 실행시켜 줍니다.
-      (기본적으로 설치되어 있을 수도 있고, 없으시다면 Google OTP App을 다운로드 합니다.)
+      (기본적으로 설치되어 있을 수도 있고, 없으시다면 Google OTP 앱을 다운로드 합니다.)
    2. OTP 앱을 실행시켜 **\[시작\]** 클릭 후 제공된 키 입력을 선택합니다.
    3. 계정 이름 입력란에 계정 이름을 설정하여 줍니다.
       키 입력란에는 16자리의 키를 입력하고 **\[추가\]**를 클릭하면 인증번호란이 생성됩니다.
