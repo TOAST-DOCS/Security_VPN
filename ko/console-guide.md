@@ -106,11 +106,11 @@ Step6. 접속 완료
 
 ![접속 완료](https://static.toastoven.net/prod_gov_security/ssl-vpn-8(230613).png)
 
-ID/PASSWORD 및 2차 인증 성공하면 위와 같이 연결창이 나오며, 접속이 완료 됩니다.
+    ID/PASSWORD 및 2차 인증 성공하면 위와 같이 연결창이 나오며, 접속이 완료 됩니다.
 
 Step7. 이용자 VM 접속
 
-원격 터미널 접속 Tool\[Putty, SecureCRT등\]을 이용하여 이용자 VM SSH 연결 진행 (접속 시 VPN Private Floating IP로 접속)
+    원격 터미널 접속 Tool\[Putty, SecureCRT등\]을 이용하여 이용자 VM SSH 연결 진행 (접속 시 VPN Private Floating IP로 접속)
 
 ![VM 접속](https://static.toastoven.net/prod_gov_security/ssl-vpn-9(230613).png)
 
