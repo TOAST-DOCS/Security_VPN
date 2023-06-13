@@ -54,15 +54,15 @@ Step3. NHN Cloud(공공기관용) SSL VPN Agent 실행
    3. 발급 받으신 임시 초기 비밀번호를 입력합니다.
    4. **\[로그인\]**을 클릭합니다.
 
-※ NHN Cloud(공공기관용) KR1(판교)/KR2(평촌) 리전 접속변경 방법
+   ※ NHN Cloud(공공기관용) KR1(판교)/KR2(평촌) 리전 접속변경 방법
 
 ![Agent 접속변경](https://static.toastoven.net/prod_gov_security/ssl-vpn-5(230613).png)
 
-   1. SSLVPN Agent 실행 후 하단 ‘자동 접속 정보 설정’ 메뉴를 선택합니다.
-      * KR1(판교) 리전 : [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001)
-      * KR2(평촌) 리전 : [https://kr2-sslvpn.gov-nhncloud.com:9001](https://kr2-sslvpn.gov-nhncloud.com:9001)
-   2. 자동 접속 정보 설정 팝업창에서, 접속할 리전의 Use 항목을 선택합니다.
-   3. 서버 설정 사용 확인 창에서 ‘예(Y)’를 선택합니다.
+      1. SSLVPN Agent 실행 후 하단 ‘자동 접속 정보 설정’ 메뉴를 선택합니다.
+         * KR1(판교) 리전 : [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001)
+         * KR2(평촌) 리전 : [https://kr2-sslvpn.gov-nhncloud.com:9001](https://kr2-sslvpn.gov-nhncloud.com:9001)
+      2. 자동 접속 정보 설정 팝업창에서, 접속할 리전의 Use 항목을 선택합니다.
+      3. 서버 설정 사용 확인 창에서 ‘예(Y)’를 선택합니다.
 
 
 Step4. NHN Cloud(공공기관용) SSL VPN Google OTP 2차 인증 수단 등록 설정
