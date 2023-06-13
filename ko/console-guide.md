@@ -19,7 +19,7 @@
    5. SSL VPN 계정 발급 : NHN Cloud (공공기관용) 보안부서에서 요청 내용을 확인하여 계정 생성 및 접근 권한 설정 적용
    6. 고객사 회신 : 고객에게 완료 처리 내용 통지
    7. SSL VPN Agent 설치 : 처리 완료 메일 수신 후 NHN Cloud (공공기관용) SSL VPN 사용 방법 가이드에 따라 SSL VPN Agent 설치 진행
-   8. 접속 : 외부 접속용 PC에 설치 되어진 Agent 실행하여 등록되어진 VPN ID를 이용하여 접속합니다.
+   8. 접속 : 외부 접속용 PC에 설치 되어진 Agent 실행하여 등록되어진 VPN ID를 이용하여 접속
 <BR>
 
 ### NHN Cloud (공공기관용) SSL VPN 사용 방법 및 이용자 VM 접속 방법
