@@ -69,9 +69,9 @@ Step3. NHN Cloud (공공기관용) SSL VPN Agent 실행
 
 1. SSLVPN Agent 실행 후 하단 ‘자동 접속 정보 설정’ 메뉴를 선택합니다.
 
-    * KR1(판교) 리전 : https://gov-sslvpn.nhncloud.com:9001
+    * KR1(판교) 리전 : [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001)
     
-    * KR2(평촌) 리전 : https://kr2-sslvpn.gov-nhncloud.com:9001
+    * KR2(평촌) 리전 : [https://kr2-sslvpn.gov-nhncloud.com:9001](https://kr2-sslvpn.gov-nhncloud.com:9001)
 
 2. 자동 접속 정보 설정 팝업창에서, 접속할 리전의 Use 항목을 선택합니다.
 
