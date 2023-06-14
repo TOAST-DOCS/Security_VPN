@@ -116,11 +116,11 @@ A. NHN Cloud (공공기관용) SSL VPN Client 프로그램을 이용하여 아�
 
 ![Password 변경](https://static.toastoven.net/prod_gov_security/ssl-vpn-10(230613).png)
 
-- 열쇠 모양을 클릭하게 되면 오른쪽의 화면이 나타납니다.
+* 열쇠 모양을 클릭하게 되면 오른쪽의 화면이 나타납니다.
   (비밀번호 변경하기 위해선 먼저 Client에 접속한 뒤 변경 가능합니다)
-- 기존 비밀번호를 입력합니다.
-- 변경 할 비밀번호를 입력합니다.
-- [변경] 클릭 합니다.
+* 기존 비밀번호를 입력합니다.
+* 변경 할 비밀번호를 입력합니다.
+* [변경] 클릭 합니다.
 
 
 Q. 이용기관의 데이터를 서버로 이전 시 어떻게 옮겨야 하나요?<br>
@@ -130,9 +130,9 @@ A. NHN Cloud (공공기관용) SSL VPN을 실행하여 암호화 되어진 가�
 
 ![데이터 이관](https://static.toastoven.net/prod_gov_security/ssl-vpn-11(230613).png)
 
-- NHN Cloud (공공기관용) SSL VPN Client 실행 및 로그인
-- 데이터 Upload Tool[WinScp등]을 이용하여 이용자 VM 접속
-- 이관이 필요한 데이터 전송
+* NHN Cloud (공공기관용) SSL VPN Client 실행 및 로그인
+* 데이터 Upload Tool[WinScp등]을 이용하여 이용자 VM 접속
+* 이관이 필요한 데이터 전송
 
 
 Q. KR1(판교)리전 SSL VPN 사용 중에 추가로 KR2(평촌)리전 SSL VPN을 사용이 필요할 경우, 어떻게 KR2(평촌)리전을 사용(등록) 하나요?<br>
@@ -142,9 +142,10 @@ A. NHN Cloud SSL VPN Client 프로그램은 KR1(판교)리전 / KR2(평촌)리�
 
 ![데이터 이관](https://static.toastoven.net/prod_gov_security/ssl-vpn-12(230613).png)
 
-\※ 접속 서버 추가 설정 내용
+※ 접속 서버 추가 설정 내용
+
 * KR1(판교) 리전, 접속 URL : gov-sslvpn.nhncloud.com / Port : 9001 / SSL : 사용 check
 * KR2(평촌) 리전, 접속 URL : kr2-sslvpn.gov-nhncloud.com / Port : 9001 / SSL : 사용 check
     
 ### 참고
-- SSL VPN 계정 생성 이후 30일 이내 접속 이력이 없으면 유휴 계정으로 전환되며, 90일 미접속 시 계정이 삭제됩니다.
+* SSL VPN 계정 생성 이후 30일 이내 접속 이력이 없으면 유휴 계정으로 전환되며, 90일 미접속 시 계정이 삭제됩니다.
