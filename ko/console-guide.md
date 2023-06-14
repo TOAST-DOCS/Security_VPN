@@ -137,7 +137,7 @@ A. NHN Cloud (공공기관용) SSL VPN을 실행하여 암호화 되어진 가�
 
 Q. KR1(판교)리전 SSL VPN 사용 중에 추가로 KR2(평촌)리전 SSL VPN을 사용이 필요할 경우, 어떻게 KR2(평촌)리전을 사용(등록) 하나요?<br>
 ```
-A. NHN Cloud SSL VPN Client 프로그램은 KR1(판교)리전 / KR2(평촌)리전 동일한 버전의 프로그램으로, SSL VPN Client 프로그램의 접속 정보 설정을 추가하여 KR1(판교)리전 / KR2(평촌)리전 모두 사용이 가능합니다. 
+A. NHN Cloud SSL VPN Client 프로그램은 KR1(판교)리전 \/ KR2(평촌)리전 동일한 버전의 프로그램으로, SSL VPN Client 프로그램의 접속 정보 설정을 추가하여 KR1(판교)리전 \/ KR2(평촌)리전 모두 사용이 가능합니다. 
 ```
 
 ![데이터 이관](https://static.toastoven.net/prod_gov_security/ssl-vpn-12(230613).png)
