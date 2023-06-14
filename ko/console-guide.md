@@ -58,11 +58,11 @@ Step3. NHN Cloud(공공기관용) SSL VPN Agent 실행
 
 ![Agent 접속변경](https://static.toastoven.net/prod_gov_security/ssl-vpn-5(230613).png)
 
-      1. SSLVPN Agent 실행 후 하단 ‘자동 접속 정보 설정’ 메뉴를 선택합니다.
-         * KR1(판교) 리전 : [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001)
-         * KR2(평촌) 리전 : [https://kr2-sslvpn.gov-nhncloud.com:9001](https://kr2-sslvpn.gov-nhncloud.com:9001)
-      2. 자동 접속 정보 설정 팝업창에서, 접속할 리전의 Use 항목을 선택합니다.
-      3. 서버 설정 사용 확인 창에서 ‘예(Y)’를 선택합니다.
+   1. SSLVPN Agent 실행 후 하단 ‘자동 접속 정보 설정’ 메뉴를 선택합니다.
+      * KR1(판교) 리전 : [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001)
+      * KR2(평촌) 리전 : [https://kr2-sslvpn.gov-nhncloud.com:9001](https://kr2-sslvpn.gov-nhncloud.com:9001)
+   2. 자동 접속 정보 설정 팝업창에서, 접속할 리전의 Use 항목을 선택합니다.
+   3. 서버 설정 사용 확인 창에서 ‘예(Y)’를 선택합니다.
 
 
 Step4. NHN Cloud(공공기관용) SSL VPN Google OTP 2차 인증 수단 등록 설정
@@ -93,14 +93,14 @@ Step5. NHN Cloud(공공기관용) SSL VPN Client OTP 2차 인증 등록 설정
 
 Step6. 접속 완료
 
-![접속 완료](https://static.toastoven.net/prod_gov_security/ssl-vpn-8(230613).png)
+* ID/PASSWORD 및 2차 인증 성공하면 아래와 같이 연결창이 나오며, 접속이 완료 됩니다.
 
-   * ID/PASSWORD 및 2차 인증 성공하면 위와 같이 연결창이 나오며, 접속이 완료 됩니다.
+![접속 완료](https://static.toastoven.net/prod_gov_security/ssl-vpn-8(230613).png)   
 
 
 Step7. 이용자 VM 접속
 
-   * 원격 터미널 접속 Tool\[Putty, SecureCRT등\]을 이용하여 이용자 VM SSH 연결 진행 (접속 시 VPN Private Floating IP로 접속)
+* 원격 터미널 접속 Tool\[Putty, SecureCRT등\]을 이용하여 이용자 VM SSH 연결 진행 (접속 시 VPN Private Floating IP로 접속)
 
 ![VM 접속](https://static.toastoven.net/prod_gov_security/ssl-vpn-9(230613).png)
 
