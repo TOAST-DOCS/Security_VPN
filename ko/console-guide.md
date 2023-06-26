@@ -29,7 +29,7 @@ Step1. NHN Cloud(공공기관용) SSL VPN Download Page 로그인
 ![로그인](https://static.toastoven.net/prod_gov_security/ssl-vpn-3-1.png)
 
    1. URL창에 SSL VPN 사용 리전에 맞는 도메인 주소를 입력합니다.
-      * KR1(판교) 리전 : [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001/)
+      * KR1(판교) 리전 : [https://kr1-sslvpn.gov-nhncloud.com:9001](https://kr1-sslvpn.gov-nhncloud.com:9001/)
       * KR2(평촌) 리전 : [https://kr2-sslvpn.gov-nhncloud.com:9001](https://kr2-sslvpn.gov-nhncloud.com:9001/)
    2. 발급 받으신 ID를 입력합니다.
    3. 발급 받으신 임시 초기 비밀번호를 입력합니다.
@@ -59,7 +59,7 @@ Step3. NHN Cloud(공공기관용) SSL VPN Agent 실행
 ![Agent 접속변경](https://static.toastoven.net/prod_gov_security/ssl-vpn-5(230613).png)
 
    1. SSLVPN Agent 실행 후 하단 ‘자동 접속 정보 설정’ 메뉴를 선택합니다.
-      * KR1(판교) 리전 : [https://gov-sslvpn.nhncloud.com:9001](https://gov-sslvpn.nhncloud.com:9001)
+      * KR1(판교) 리전 : [https://kr1-sslvpn.gov-nhncloud.com:9001](https://kr1-sslvpn.gov-nhncloud.com:9001)
       * KR2(평촌) 리전 : [https://kr2-sslvpn.gov-nhncloud.com:9001](https://kr2-sslvpn.gov-nhncloud.com:9001)
    2. 자동 접속 정보 설정 팝업창에서, 접속할 리전의 Use 항목을 선택합니다.
    3. 서버 설정 사용 확인 창에서 ‘예(Y)’를 선택합니다.
@@ -144,7 +144,7 @@ A. NHN Cloud SSL VPN Client 프로그램은 KR1(판교)리전 / KR2(평촌)리�
 
 ※ 접속 서버 추가 설정 내용
 
-* KR1(판교) 리전, 접속 URL : gov-sslvpn.nhncloud.com / Port : 9001 / SSL : 사용 check
+* KR1(판교) 리전, 접속 URL : kr1-sslvpn.gov-nhncloud.com / Port : 9001 / SSL : 사용 check
 * KR2(평촌) 리전, 접속 URL : kr2-sslvpn.gov-nhncloud.com / Port : 9001 / SSL : 사용 check
     
 ### 참고
