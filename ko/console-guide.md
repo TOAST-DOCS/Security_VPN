@@ -14,7 +14,7 @@
       
       [![](https://static.toastoven.net/prod_gov_security/fileicon_download_excel.png)](https://static.toastoven.net/prod_gov_security/NHN%20Cloud%20%EB%B0%A9%ED%99%94%EB%B2%BD%20%EB%B0%8F%20SSL%20VPN%20%EC%A0%95%EC%B1%85%20%EC%8B%A0%EC%B2%AD%EC%84%9C.xlsx)
    
-   3. SSL VPN 신청서 접수(1:1문의) : NHN Cloud (공공기관용) [1:1 문의](https://www.nhncloud.com/kr/support/inquiry?alias=tab3_08) 서비스/기타/Security 유형으로 접수 신청(접수일 기준으로 3일 이내 처리 및 회신)
+   3. SSL VPN 신청서 접수(1:1문의) : NHN Cloud (공공기관용) [1:1 문의](https://www.alpha-gov-nhncloud.com/kr/support/inquiry?alias=tab3_08) 서비스/기타/Security 유형으로 접수 신청(접수일 기준으로 3일 이내 처리 및 회신)
    4. 신청서 검토 (접수 및 등록) : NHN Cloud(공공기관용) 사업부서에서 작성 내역의 검토 및 처리부서로 이관 등록
    5. SSL VPN 계정 발급 : NHN Cloud(공공기관용) 보안부서에서 요청 내용을 확인하여 계정 생성 및 접근 권한 설정 적용
    6. 고객사 회신 : 고객에게 완료 처리 내용 통지
