@@ -12,7 +12,7 @@
    2. 계정 및 ACL 신청서 작성 : SSL VPN을 이용하여 접근 할 운영/관리 담당자 계정 신청 및 접속 시스템 ACL 등록 신청서 작성
       (아래의 Link를 통해 신청서 Download 및 신청서 작성)
       
-      [![](https://static.toastoven.net/prod_gov_security/fileicon_download_excel.png)](https://static.toastoven.net/prod_gov_security/NHN%20Cloud%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AA%E1%84%87%E1%85%A7%E1%86%A8%20%E1%84%86%E1%85%B5%E1%86%BE%20SSL%20VPN%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%A2%E1%86%A8%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%89%E1%85%A5.xlsx)
+      [![](https://static.toastoven.net/prod_gov_security/fileicon_download_excel.png)](https://static.toastoven.net/prod_gov_security/NHN%20Cloud%20%EB%B0%A9%ED%99%94%EB%B2%BD%20%EB%B0%8F%20SSL%20VPN%20%EC%A0%95%EC%B1%85%20%EC%8B%A0%EC%B2%AD%EC%84%9C.xlsx)
    
    3. SSL VPN 신청서 접수(1:1문의) : NHN Cloud (공공기관용) [1:1 문의](https://www.alpha-gov-nhncloud.com/kr/support/inquiry?alias=tab3_08) 서비스/기타/Security 유형으로 접수 신청(접수일 기준으로 3일 이내 처리 및 회신)
    4. 신청서 검토 (접수 및 등록) : NHN Cloud(공공기관용) 사업부서에서 작성 내역의 검토 및 처리부서로 이관 등록
